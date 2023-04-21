@@ -1,3 +1,4 @@
-I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. 
-It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.
- I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
+Review of the tutorial: It was able to learn the git and github version control
+ and repository process. I used it to solve my assignment. 
+Overall, it is good for begginners and requires more time to understand git.
+I learnt the basic such as merging, commit, add, branching and others.
