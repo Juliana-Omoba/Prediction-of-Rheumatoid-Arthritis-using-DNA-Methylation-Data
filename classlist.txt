@@ -1,1 +1,2 @@
-I am Kamalvir kaur student of saskpolytech
+Name: Juliana Adisa
+Programming with Python: Class assignment3.
