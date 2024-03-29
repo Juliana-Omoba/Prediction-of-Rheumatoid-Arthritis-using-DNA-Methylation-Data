@@ -38,4 +38,15 @@ During the preliminary stages of data preparation, the following tasks are execu
 - Drop Unwanted Features
 - Label Encoding
 - Capping Outliers
-- Normalizing with Standard Scaler
+- Normalization using MinMaxScaler
+
+
+### Perform a comparative analysis of various machine learning model performances
+
+decision tree and svm
+implementing feature selection using chi2
+implementing cross validation with hypertuning to find best parameter for each model
+Using two appropriate metrics for model performance evaluation
+
+
+
