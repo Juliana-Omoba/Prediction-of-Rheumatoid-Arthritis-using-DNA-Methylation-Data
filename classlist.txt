@@ -1,2 +1,0 @@
-Name: Juliana Adisa
-Programming with Python: Class assignment3.
