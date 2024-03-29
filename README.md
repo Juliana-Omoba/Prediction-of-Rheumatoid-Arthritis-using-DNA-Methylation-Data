@@ -77,11 +77,11 @@ After conducting exploratory data analysis and feature importance assessments, w
 The table presented below illustrates a comparative analysis of accuracy results across four subsets of data applied to two machine learning algorithms: Support Vector Machine (SVM) and Decision Tree (DT). Across all subsets, SVM consistently outperforms DT in terms of accuracy. Notably, Subset 4 exhibits the highest overall performance, underscoring the substantial impact of outlier capping and dataset normalization. These findings underscore the effectiveness of preprocessing techniques in enhancing model performance and highlight SVM as a preferred algorithm for predictive tasks on this dataset.
 
 
-<img src = "ResultsComparison.png">
+<img src = "MLproject/ResultsComparison.png">
 
 Furthermore, the table provided below presents the classification report and confusion matrix of the optimal data subset, Subset 4, for the Support Vector Machine (SVM) algorithm. The confusion matrix indicates that 84.5% of the data are accurately classified as True Positive and True Negative.
 
-<img src = "SVMresult.png">
+<img src = "MLproject/SVMresult.png">
 
 ### Summary of Findings
 - This research commenced with the loading of two patient data files containing DNA methylation data, disease status, gender, age, and smoking status features.
